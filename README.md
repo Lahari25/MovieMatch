@@ -7,8 +7,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 We use *web scraping* to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 ## Running Flask Tests
 
+
 To run a Flask deployment tests, run the following command
 
 ```bash
   python main.py
 ```
+<br>
+<img src="https://github.com/Lahari25/MovieMatch/blob/main/netflix/in.jpg" width="650" height="400">
