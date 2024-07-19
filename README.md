@@ -14,4 +14,4 @@ To run a Flask deployment tests, run the following command
   python main.py
 ```
 <br>
-<img src="https://github.com/Lahari25/MovieMatch/blob/main/netflix/in.jpg" width="650" height="400">
+<img src="https://github.com/Lahari25/MovieMatch/blob/main/netflix/in.jpg" width="950" height="400">
